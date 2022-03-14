@@ -19,3 +19,8 @@ For running the app
 1. get clone of the project
 2. Run npm i
 3. Run npm start
+
+
+
+Link to heroku where the app is deployed
+1.  https://krazybeeassignment.herokuapp.com/
