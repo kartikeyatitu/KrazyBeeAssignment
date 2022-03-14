@@ -1,1 +1,6 @@
-![Image of our application)](src\screenshots\img1.png)
+![Image of our application)](/src/screenshots/img1.png)
+![Image of our application)](/src/screenshots/img2.png)
+![Image of our application)](/src/screenshots/img3.png)
+![Image of our application)](/src/screenshots/img4.png)
+![Image of our application)](/src/screenshots/img5.png)
+![Image of our application)](/src/screenshots/img6.png)
