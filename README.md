@@ -1,1 +1,1 @@
-![Image of our application)](D:\krazybee\src\screenshots\Screenshot (326).png)
+![Image of our application)](screenshots\Screenshot (326).png)
