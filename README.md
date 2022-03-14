@@ -1,1 +1,1 @@
-![Image of our application)](src/screenshots\Screenshot (326).png)
+![Image of our application)](src\screenshots\img1.png)
