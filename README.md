@@ -24,3 +24,5 @@ For running the app
 
 Link to heroku where the app is deployed
 1.  https://krazybeeassignment.herokuapp.com/
+
+
